@@ -7,8 +7,6 @@ function evenOrOdd(n) {
 }
 
 function greeting(name) {
-    return "Hola " + name + "!";
+    const saludo = "Hola, "
+    return saludo + name + "!";
     }
-    greet("Javi!");
-    greet("gente!");
-    greet("Mary!");
